@@ -13,7 +13,7 @@ This is a simple AI-powered handwritten digit recognition tool using deep learni
 
 ## 🖼️ Demo
 
-![Digit Recognizer Demo](screenshots/demo.png)
+![Digit Recognizer Demo](Screenshot 2025-04-13 134118.png)
 
 ## 🚀 How to Run
 
@@ -21,21 +21,19 @@ This is a simple AI-powered handwritten digit recognition tool using deep learni
    ```bash
    git clone https://github.com/your-username/digit-recognizer-voice.git
    cd digit-recognizer-voice
-
  2.pip install -r requirements.txt
-
  3.python digit_recognizer.py
 
 
 📦 Dependencies:
  1) TensorFlow
-
  2) NumPy
-
  3) OpenCV
-
  4) Tkinter
-
  5) PIL (Pillow)
+ 6) 6) pyttsx3
 
- 6) pyttsx3
+👨‍💻 Author
+Name: Ram vishwakarma
+
+GitHub: @Ramvish108
