@@ -13,7 +13,8 @@ This is a simple AI-powered handwritten digit recognition tool using deep learni
 
 ## 🖼️ Demo
 
-![Digit Recognizer Demo](Screenshot 2025-04-13 134118.png)
+![Digit Recognizer Demo](Screenshot%202025-04-13%20134118.png)
+
 
 ## 🚀 How to Run
 
